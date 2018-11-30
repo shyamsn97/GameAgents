@@ -4,6 +4,6 @@
 
 ### [MiniMax](MiniMaxAgent.java)
 
-### [MiniMax with Alpha - Beta Pruning](MiniMaxAgentAB.java)
+### [MiniMax with Alpha - Beta Pruning](MiniMaxABAgent.java)
 
 ### [ExpectiMax](ExpectiMaxAgent.java)
