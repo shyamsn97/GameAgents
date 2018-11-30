@@ -1,7 +1,9 @@
 # GameAgents
-## Various tree based agents implemented on a tic tac toe environment
+## Various tree based agents implemented in a tic tac toe environment
 ## Algorithms Implemented
 
-### MiniMax
+### [MiniMax](MiniMaxAgent.java)
 
-### MiniMax with Alpha - Beta Pruning
+### [MiniMax with Alpha - Beta Pruning](MiniMaxAgentAB.java)
+
+### [ExpectiMax](ExpectiMaxAgent.java)
